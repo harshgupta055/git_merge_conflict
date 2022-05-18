@@ -4,6 +4,5 @@ print("Yes")
 print("No")
 #comment
 
-while(True):
-    print("KKKK")
-    break
+for i in range(10):
+    print(i, end=" ")
